@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Leonardo Carvalho  
 
----
-
 ## 🚀 Sobre mim  
 Sou apaixonado por tecnologia e programação, sempre buscando aprender e criar soluções eficientes e criativas.  
 Trabalho tanto no **Front-end**, desenvolvendo interfaces modernas e responsivas, quanto no **Back-end**, estruturando a lógica e a arquitetura que dão vida às aplicações.  
