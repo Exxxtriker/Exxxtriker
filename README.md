@@ -1,4 +1,22 @@
-## Olá eu sou o Leonardo, criador de conteudo Digital, Programador Full-Stack!
+# 👋 Olá, eu sou o Leonardo Carvalho  
+
+💻 **Desenvolvedor Full Stack** | 🎨 **Front-end & Back-end**  
+📍 Brasil | 📅 24 anos  
+
+---
+
+## 🌐 Idiomas  
+- 🇧🇷 Português (Nativo)  
+- 🇺🇸 Inglês (Intermediário)  
+
+---
+
+## 🚀 Sobre mim  
+Sou apaixonado por tecnologia e programação, sempre buscando aprender e criar soluções eficientes e criativas.  
+Trabalho tanto no **Front-end**, desenvolvendo interfaces modernas e responsivas, quanto no **Back-end**, estruturando a lógica e a arquitetura que dão vida às aplicações.  
+
+⚡ Gosto de desafios que me fazem evoluir como programador e de compartilhar conhecimento com a comunidade.  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Exxxtriker-DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="Exxxtriker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
