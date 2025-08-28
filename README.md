@@ -1,14 +1,5 @@
 # 👋 Olá, eu sou o Leonardo Carvalho  
 
-💻 **Desenvolvedor Full Stack** | 🎨 **Front-end & Back-end**  
-📍 Brasil | 📅 24 anos  
-
----
-
-## 🌐 Idiomas  
-- 🇧🇷 Português (Nativo)  
-- 🇺🇸 Inglês (Intermediário)  
-
 ---
 
 ## 🚀 Sobre mim  
