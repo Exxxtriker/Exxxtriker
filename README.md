@@ -6,6 +6,9 @@ Trabalho tanto no **Front-end**, desenvolvendo interfaces modernas e responsivas
 
 ⚡ Gosto de desafios que me fazem evoluir como programador e de compartilhar conhecimento com a comunidade.  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exxxtriker&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exxxtriker&theme=midnight-purple&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Exxxtriker-DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="Exxxtriker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
