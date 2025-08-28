@@ -1,4 +1,4 @@
-## Olá eu sou o Leonardo, estudante de ciências da computação na instituição FMU, criador de conteudo Digital!
+## Olá eu sou o Leonardo, criador de conteudo Digital, Programador Full-Stack!
 <div style="display: inline_block"><br>
   <img align="center" alt="Exxxtriker-DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="Exxxtriker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
