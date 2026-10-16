@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="290" viewBox="0 0 580 290" role="img" aria-label="Gideon the Bard">
+<rect x="1" y="1" width="578" height="288" rx="20" fill="#141D2F" stroke="#303D55"/>
+<rect x="30" y="31" width="42" height="42" rx="12" fill="#B7AAFF" fill-opacity=".12"/>
+<text x="51" y="59" text-anchor="middle" fill="#B7AAFF" font-family="Segoe UI,Arial,sans-serif" font-size="24">♫</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="88" y="57" fill="#B7AAFF" font-size="12" font-weight="600" letter-spacing="2">DISCORD · RPG &amp; ÁUDIO</text>
+<text x="30" y="116" fill="#F3F5FB" font-size="30" font-weight="700">Gideon the Bard</text>
+<text x="30" y="151" fill="#B7C3D9" font-size="17">Música, soundboard e sistemas de RPG.</text>
+<text x="30" y="177" fill="#B7C3D9" font-size="17">Cartas, economia e progressão por servidor.</text>
+<path d="M30 205H550" stroke="#303D55"/>
+<text x="30" y="236" fill="#B7AAFF" font-size="14">JavaScript / Node.js / Discord.js / MongoDB</text>
+<text x="30" y="267" fill="#EDF1FA" font-size="14" font-weight="600">Explorar repositório →</text>
+</g></svg>
