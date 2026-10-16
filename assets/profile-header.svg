@@ -10,9 +10,9 @@
 <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
 <path d="M56 56H120" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="56" y="98" fill="#AFA4FF" font-size="14" font-weight="600" letter-spacing="4">EXXXTRIKER / DEVELOPER</text>
+<text x="56" y="98" fill="#AFA4FF" font-size="14" font-weight="600" letter-spacing="4">EXXXTRIKER</text>
 <text x="52" y="164" fill="#F3F5FB" font-size="55" font-weight="700" letter-spacing="-2">Leonardo Carvalho</text>
-<text x="56" y="207" fill="#B7C3D9" font-size="22">Código, criatividade e experiências para comunidades.</text>
+<text x="56" y="207" fill="#B7C3D9" font-size="22">Desenvolvimento web e bots para Discord.</text>
 <rect x="56" y="248" width="210" height="36" rx="18" fill="#AFA4FF" fill-opacity=".12" stroke="#AFA4FF" stroke-opacity=".28"/>
 <text x="161" y="271" text-anchor="middle" fill="#D7D1FF" font-size="14">DESENVOLVIMENTO WEB</text>
 <rect x="278" y="248" width="180" height="36" rx="18" fill="#68DEC3" fill-opacity=".09" stroke="#68DEC3" stroke-opacity=".25"/>
