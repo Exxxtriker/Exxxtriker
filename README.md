@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-header.svg?v=2" width="100%" alt="Leonardo Carvalho — Desenvolvimento web e bots para Discord">
+  <img src="https://raw.githubusercontent.com/Exxxtriker/Exxxtriker/0f7b9f90c9d21c61606168794ef047c79f9c64b9/assets/profile-header.svg" width="100%" alt="Leonardo Carvalho — Desenvolvimento web e bots para Discord">
 </p>
 
 Sou **Leonardo Carvalho**, ou **Exxxtriker** por aqui. Trabalho com front-end e back-end. Meus projetos públicos são principalmente bots para Discord, com recursos de áudio, moderação e jogos.
