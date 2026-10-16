@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Leonardo Carvalho — Desenvolvimento web e bots para Discord</title>
+<desc id="desc">Cabeçalho azul escuro com detalhes em lavanda e verde e um símbolo de código.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#1D2540"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#AFA4FF"/><stop offset="1" stop-color="#68DEC3"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8295C0" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<path d="M56 56H120" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="56" y="98" fill="#AFA4FF" font-size="14" font-weight="600" letter-spacing="4">EXXXTRIKER / DEVELOPER</text>
+<text x="52" y="164" fill="#F3F5FB" font-size="55" font-weight="700" letter-spacing="-2">Leonardo Carvalho</text>
+<text x="56" y="207" fill="#B7C3D9" font-size="22">Código, criatividade e experiências para comunidades.</text>
+<rect x="56" y="248" width="210" height="36" rx="18" fill="#AFA4FF" fill-opacity=".12" stroke="#AFA4FF" stroke-opacity=".28"/>
+<text x="161" y="271" text-anchor="middle" fill="#D7D1FF" font-size="14">DESENVOLVIMENTO WEB</text>
+<rect x="278" y="248" width="180" height="36" rx="18" fill="#68DEC3" fill-opacity=".09" stroke="#68DEC3" stroke-opacity=".25"/>
+<text x="368" y="271" text-anchor="middle" fill="#93E9D5" font-size="14">BOTS &amp; INTEGRAÇÕES</text>
+</g>
+<g transform="translate(1000 165)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="-90" y="-90" width="180" height="180" rx="40" stroke="#AFA4FF" stroke-opacity=".18" transform="rotate(12)"/>
+<rect x="-77" y="-77" width="154" height="154" rx="32" fill="#141D31" stroke="#AFA4FF" stroke-opacity=".35"/>
+<path d="M-30-22L-54 0L-30 22M30-22L54 0L30 22" stroke="#AFA4FF" stroke-width="7"/>
+<path d="M12-35L-12 35" stroke="#68DEC3" stroke-width="7"/>
+<circle cx="78" cy="-70" r="7" fill="#68DEC3" stroke="#141D31" stroke-width="5"/>
+</g>
+<rect x="56" y="323" width="1088" height="2" rx="1" fill="url(#line)" opacity=".6"/>
+</svg>
