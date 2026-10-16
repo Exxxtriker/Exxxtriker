@@ -1,25 +1,27 @@
 <p>
-  <img src="https://raw.githubusercontent.com/Exxxtriker/Exxxtriker/0f7b9f90c9d21c61606168794ef047c79f9c64b9/assets/profile-header.svg" width="100%" alt="Leonardo Carvalho — Desenvolvimento web e bots para Discord">
+  <img src="https://raw.githubusercontent.com/Exxxtriker/Exxxtriker/e4cf38cfe79871412c313492ec48be9c5fe3aa6c/assets/profile-header.svg" width="100%" alt="Leonardo Carvalho — Desenvolvimento full stack">
 </p>
 
-Sou **Leonardo Carvalho**, ou **Exxxtriker** por aqui. Trabalho com front-end e back-end. Meus projetos públicos são principalmente bots para Discord, com recursos de áudio, moderação e jogos.
+Sou **Leonardo Carvalho**, ou **Exxxtriker** por aqui. Meu foco é desenvolvimento **full stack**, trabalhando com interfaces, back-end e bancos de dados.
 
-## Projetos
-
-<a href="https://github.com/Exxxtriker/Better-Soundpad-for-Bot-Discord"><img src="./assets/project-gideon.svg" width="420" alt="Gideon the Bard — bot para mesas de RPG no Discord. Abrir repositório."></a>
-<a href="https://github.com/Exxxtriker/Haruka-bot"><img src="./assets/project-haruka.svg" width="420" alt="Haruka Bot — moderação, minigames e Minecraft. Abrir repositório."></a>
-
-**[Gideon the Bard](https://github.com/Exxxtriker/Better-Soundpad-for-Bot-Discord)**  
-Um bot para acompanhar mesas de RPG no Discord. Reúne música, soundboard, rolagem de dados e um sistema de cartas com inventário, trocas e economia por servidor.
-
-**[Haruka Bot](https://github.com/Exxxtriker/Haruka-bot)**  
-Bot de moderação e entretenimento, com minigames, efeitos sonoros e integração com Minecraft.
+Estou ampliando meu portfólio com projetos web. Por aqui, compartilho o que desenvolvo e aprendo ao longo do caminho.
 
 ## Tecnologias
 
-Nos bots, uso **JavaScript, Node.js e Discord.js**. Os projetos também incluem **MongoDB, Mongoose, Express e SQLite**.
+| Front-end | Back-end | Banco de dados |
+| :--- | :--- | :--- |
+| HTML, CSS, JavaScript e TypeScript | Node.js e Express | MongoDB, SQLite e SQL |
 
-Outros conhecimentos: TypeScript, HTML, CSS, Python, C#, C e SQL.
+Também tenho conhecimentos em Python, C# e C.
+
+## Projetos atuais
+
+Meus repositórios atuais incluem projetos para Discord, nos quais trabalho com comandos, integrações e persistência de dados.
+
+| Projeto | Sobre |
+| :--- | :--- |
+| [Gideon the Bard](https://github.com/Exxxtriker/Better-Soundpad-for-Bot-Discord) | Áudio e sistemas de RPG, com cartas, inventário e economia por servidor. |
+| [Haruka Bot](https://github.com/Exxxtriker/Haruka-bot) | Moderação, minigames e integração com Minecraft. |
 
 ## Onde me encontrar
 
